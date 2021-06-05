@@ -23,7 +23,7 @@
 
 ### Download
 - Clone: 
-`$ git clone https://github.com/venkataswamyr/LaTeX-PhD_Thesis_LaTeX_Template-Christ_University`
+`$ git clone https://github.com/venkataswamyr/LaTeXTemplates`
 - Alternative download: [https://venkataswamy.in/pages/latexworld.html](https://venkataswamy.in/downloads/latexworld/PhD_Thesis_LaTex_Template-Christ_(Deemed_to_be_University).zip)
 
 
